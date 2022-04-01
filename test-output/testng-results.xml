@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T21:08:26 IST" name="Default Suite" finished-at="2022-03-31T21:08:28 IST" duration-ms="1466">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T21:08:26 IST" name="NewRestProject" finished-at="2022-03-31T21:08:28 IST" duration-ms="1466">
+      <class name="PutRequest">
+        <test-method signature="put_request()[pri:0, instance:PutRequest@3891771e]" started-at="2022-03-31T21:08:26 IST" name="put_request" finished-at="2022-03-31T21:08:28 IST" duration-ms="1456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_request -->
+      </class> <!-- PutRequest -->
+    </test> <!-- NewRestProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
